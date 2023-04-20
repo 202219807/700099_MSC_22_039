@@ -1,21 +1,19 @@
-# Integrating Reinforcement Learning into Game AI: 
-### Design and implementation of an adaptive game AI system (MSC-22-039)
-
-
-
+### Integrating Reinforcement Learning into Game AI: 
+## Design and Implementation of an Adaptive Game AI System (MSC-22-039)
 
 #### Research question: 
 How can reinforcement learning be integrated into game AI to create adaptive and intelligent game agents? 
 
 #### Implementation and Scope: 
 - The aim of this project would be to design and implement an adaptive game AI system that uses reinforcement learning to create intelligent and responsive game agents. 
+
 - The project would involve researching different reinforcement learning algorithms, neural network architectures, and game AI techniques to determine the most effective approach for integrating reinforcement learning into game AI. 
+
 - The project would require designing and implementing a game AI system that uses reinforcement learning to learn from its interactions with the game environment. The game AI system would need to be able to perceive the game state, take actions, and receive feedback on its performance in order to improve its decision-making abilities over time. 
+
 - The project would also require testing the performance of the game AI system against other game agents and evaluating its effectiveness in different game scenarios.
 
-#### MSc Project Topic Analysis
-Course work: https://canvas.hull.ac.uk/courses/65765/assignments/207174
-
+## MSc Project Topic Analysis
 
 **Introduction and Aims and Objectives**
 
@@ -41,3 +39,8 @@ References should be cited in the body of the report using an accepted referenci
 **General Presentation of report**
 
 Well formatted with care given to matters relating to proof reading (typos etc). Figures and tables should be labelled and cross referenced in the text.
+
+
+#### Project links:
+- Canvas: https://canvas.hull.ac.uk/courses/65765/assignments/207174
+- Report template: https://canvas.hull.ac.uk/courses/65765/files/4199915?wrap=1
